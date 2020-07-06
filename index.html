@@ -17,10 +17,34 @@ body {
   transform: translate(-50%, -50%);
   
 }
+  .topnav {
+  overflow: hidden;
+  background-color: white;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a.active {
+  background-color: white;
+  color: black;
 </style>
 </head>
-<body>
 
+
+<body>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">About</a>
+  <a href="#contact">Our Work</a>
+  <a href="#about">Blog</a>
+</div>
 <div class="center">
 <h1>i<span style="color:red">d</span>eators</h1>
 <p>Creating value through design thinking</p>

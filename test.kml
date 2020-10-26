@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Site_Developers" id="Site_Developers">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>Site_Developers</name>
+  <Placemark>
+	<name>Site developer: Nordkraft DC Sites </name>
+	<description>https://nordkraftdc.no </description>
+	<ExtendedData><SchemaData schemaUrl="#Site_Developers">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.3289483,68.3877679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site developer: Arctic host</name>
+	<description>https://arctichost.cloud</description>
+	<ExtendedData><SchemaData schemaUrl="#Site_Developers">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7995913,67.0298743,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site developer: GreenByte</name>
+	<description>https://www.greenbyte.no </description>
+	<ExtendedData><SchemaData schemaUrl="#Site_Developers">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.0146064,61.0418394,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site developer: Nordavind DC Sites</name>
+	<description>https://nordavind.com</description>
+	<ExtendedData><SchemaData schemaUrl="#Site_Developers">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.8153877,60.9352756,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site developer: New Kaupang</name>
+	<description>https://newkaupang.com</description>
+	<ExtendedData><SchemaData schemaUrl="#Site_Developers">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.2782783,59.4277984,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site developer: Oslo Data Center Location</name>
+	<description>https://oslodclo.com </description>
+	<ExtendedData><SchemaData schemaUrl="#Site_Developers">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.1678989,60.1148812,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site developer: Statkraft DC Sites</name>
+	<description>https://statkraftdatacentersites.com</description>
+	<ExtendedData><SchemaData schemaUrl="#Site_Developers">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.8163364,59.3059144,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site developer: Bulk Infrastructure</name>
+	<description>https://bulk.no/data-centers</description>
+	<ExtendedData><SchemaData schemaUrl="#Site_Developers">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.5970981,58.3506411,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site developer: Data Center in Troms</name>
+	<description>https://www.dcit.no/</description>
+	<ExtendedData><SchemaData schemaUrl="#Site_Developers">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.2326061,69.6159242,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

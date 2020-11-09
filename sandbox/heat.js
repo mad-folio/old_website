@@ -1,4 +1,4 @@
-eqfeed_callback({"type":"FeatureCollection"
+eqfeed_callback({"type":"FeatureCollection",
 "features": [
 { "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 5.5020788, 61.9339001, 0.0 ] } },
 { "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 14.1419749, 66.3137122, 0.0 ] } },

@@ -1,0 +1,13 @@
+# Compiler outputs #
+*.a
+*.bat
+*.exe
+
+# Directories #
+/sandbox/newsite/ideators/CSS_links
+
+
+# Packages #
+*.gz
+*.iso
+*.jar
